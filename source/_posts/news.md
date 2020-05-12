@@ -1,15 +1,15 @@
 ---
-title: '[活动预告]《明日方舟》一周年庆典即将开启'
+title: '[活动预告]《明日方舟》一周年庆典限时活动开启
 date: 2020-04-25 08:45:16
 tags: Arknights
 category: 活动
 ---
 
-![一周年庆典限时纪念活动即将开启](https://ak.hypergryph.com/upload/images/20200425/de82932041c829b91306ab7dfa03bbf2.jpg)
+![一周年庆典限时活动开启](https://ak.hypergryph.com/upload/images/20200425/de82932041c829b91306ab7dfa03bbf2.jpg)
 
 <!-- more -->
 
-![一周年庆典限时纪念活动即将开启](https://ak.hypergryph.com/upload/images/20200425/de82932041c829b91306ab7dfa03bbf2.jpg)
+![一周年庆典限时活动开启](https://ak.hypergryph.com/upload/images/20200425/de82932041c829b91306ab7dfa03bbf2.jpg)
 
 # 一周年庆典限时纪念活动（Part.1）
 
