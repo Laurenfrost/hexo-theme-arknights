@@ -269,7 +269,7 @@ article {
   border: 1px solid #898989;
   padding: 13px 15px;
   transition: .3s; }
-  .recent-post *, .recent-post .recent-info::after {
+  .recent-post .recent-info::after {
     transition: .3s; }
   .recent-post object h1, .recent-post object h2, .recent-post object h3, .recent-post object h4, .recent-post object h5, .recent-post object h6 {
     font-size: large;
