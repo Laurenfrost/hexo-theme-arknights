@@ -210,6 +210,11 @@ table {
   color: #fff;
   background-color: #494949; }
 
+.mermaid {
+  margin: 10px 0;
+  padding: 10px;
+  text-align: center; }
+
 header {
   position: sticky;
   top: 0;

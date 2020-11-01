@@ -36,6 +36,9 @@ valine:
   app_id: # <APP ID>
   app_key: # <APP KEY>
 
+# 图表支持
+mermaid: false
+
 # main menu navigation
 menu:
   Home: ''
